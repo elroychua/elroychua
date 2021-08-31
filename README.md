@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elroychua
-- 👀 I’m interested in Frontend & Software Development.
+- 👀 I’m interested in Front-End & Software Development.
 - 🌱 I’m currently learning Front-End Engineer Career Path by Codecademy
 - 💞️ I’m looking to collaborate on Website Development.
 - 📫 How to reach me: elroychuamx@gmail.com
