@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elroychua
-- 👀 I’m interested in Front-End & Software Development.
-- 🌱 I’m currently learning Front-End Engineer Career Path by Codecademy
-- 💞️ I’m looking to collaborate on Website Development.
+- 👀 I’m an aspring Software Developer.
+- 🌱 I’m currently an Undergraduate at UOW.
 - 📫 How to reach me: elroychuamx@gmail.com
 
 <!---
