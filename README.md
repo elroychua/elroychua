@@ -1,5 +1,6 @@
 # Hello there 👋 
 My name is Elroy, and I am a computer science student in Singapore. Here's some info about me.
+
 👨🏻‍💻 Work Experience: <br>
 - **Software Engineer intern at GetPaid** - Front-end development in the Engineering team. [Mar 2022 - Current]
 
