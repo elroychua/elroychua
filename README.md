@@ -5,6 +5,7 @@ My name is Elroy, and I am a computer science student in Singapore. Here's some 
 
 ## Interests
 - Web Development.
+- Software Development.
 
 💬 Reach me by email or LinkedIn: elroychuamx@gmail.com | https://www.linkedin.com/in/elroy-chua-9618b9205/
 <!---
