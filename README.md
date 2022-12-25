@@ -2,13 +2,15 @@
 My name is Elroy, and I am a computer science student in Singapore. Here's some info about me.
 
 👨🏻‍💻 Work Experience: <br>
-- **Software Engineer intern at GetPaid** - Front-end development in the Engineering team. [Mar 2022 - Current]
+- **Full Stack Developer Intern at GetPaid** - Front-end development in the Engineering team. [Dec 2022 - Current]
+- **Software Engineer Intern at GetPaid** - Front-end development in the Engineering team. [Mar 2022 - Nov 2022]
 
-<!--- 🔭 Current Projects: 
-- --->
+🔭 Current Projects: 
+- **SAS Startup [Freelance]
 
 🌱 Interests:
 - Web Development.
+- Fullstack Development.
 - Music.
 - Volunteer work.
 
