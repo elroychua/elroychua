@@ -6,7 +6,7 @@ My name is Elroy, and I am a computer science student in Singapore. Here's some 
 - **Software Engineer Intern at GetPaid** - Front-end development in the Engineering team. [Mar 2022 - Nov 2022]
 
 🔭 Current Projects: 
-- **SAS Startup [Freelance]
+- **SAS Startup** - Freelance Developer
 
 🌱 Interests:
 - Web Development.
