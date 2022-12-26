@@ -7,6 +7,8 @@ My name is Elroy, and I am a computer science student in Singapore. Here's some 
 
 🔭 Current Projects: 
 - **SAS Startup** - Freelance Developer
+- **Research Assistant** - Data Visualisation
+- **MedTech Project Flux** - Web Scraping and Sentimental Analysis
 
 🌱 Interests:
 - Web Development.
