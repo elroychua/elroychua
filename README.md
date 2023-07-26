@@ -1,4 +1,4 @@
-# Hello there 👋 
+# Hello world 👋 
 #### My name is Elroy, and I am a computer science student in Singapore. Here's some info about me!
 I’m currently learning Big Data Mining Techniques and Implementation & Database Performance Tuning at school.
 
