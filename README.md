@@ -1,7 +1,6 @@
 # Hello there 👋 
-My name is Elroy, and I am a computer science student in Singapore. Here's some info about me.
-
-🌱 I’m currently learning Big Data Mining Techniques and Implementation & Database Performance Tuning.
+#### My name is Elroy, and I am a computer science student in Singapore. Here's some info about me.
+I’m currently learning Big Data Mining Techniques and Implementation & Database Performance Tuning.
 
 👨🏻‍💻 Work Experience: <br>
 - **Full Stack Engineer Intern at Ensign InfoSecurit** [Aug 2023 - Jan 2024]
