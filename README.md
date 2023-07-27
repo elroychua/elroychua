@@ -8,8 +8,7 @@ I’m currently learning Big Data Mining Techniques and Implementation & Databas
 - **Software Engineer Intern @ GetPaid** - Development in the GetPaid web repo: developed a cost-effective onboarding web application. [Apr 2022 - Nov 2022]
 
 🔭 Projects: 
-<!---
-- **Edutech Startup** - Frontend Developer [Jul 2023 - Present] -->
+- **Edutech Startup** - Frontend Developer [Jul 2023 - Present]
 - **GoldenRizz, Cinema Booking System** - Full Stack developer in a team of 6 tasked to design and develop a cinema booking app using the MERN stack and Next.js, Tailwind CSS. Utilized Jira and GitHub Actions for project management and followed agile methodologies achieving a final grade of 90% in the Software Development Methodologies Module. [Apr 2023 – May 2023]
 - **Research Assistant** - Data visualization with Matplotlib and Seaborn libraries focusing on partnerships in church planting within the Philippines. [Jan 2023 - Feb 2023]
 - **MedTech Project Flux** - Implemented web scrapers on the Clinical Trials team, resulting in the successful extraction of over 100,00 data points. [Jan 2023 - Apr 2023]
