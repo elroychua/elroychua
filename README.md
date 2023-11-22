@@ -2,16 +2,16 @@
 #### My name is Elroy, and I am a computer science student in Singapore. Here's some info about me!
 
 👨🏻‍💻 Work Experience:
-- **Full Stack Engineer Intern @ Ensign InfoSecurity** - Full Stack Development in the Solutions Engineering Team: tasked to create several full stack applications. [Aug 2023 - Mar 2024]
+- **Full Stack Engineer Intern @ Ensign InfoSecurity** - Full Stack Development in the Solutions Engineering Team: created several full stack applications & improved internal CI/CD pipeline. [Aug 2023 - Mar 2024]
+- **Freelance Developer** - Full Stack Development in several client projects. [Jul 2022 - Sep 2022]
 - **Full Stack Developer Intern @ GetPaid** - Full Stack Development in the GetPaid production monorepo: improved user experience of web portal for GetPaid users and partner onboarding. [Dec 2022 - July 2023]
 - **Software Engineer Intern @ GetPaid** - Development in the GetPaid web repo: developed a cost-effective onboarding web application. [Apr 2022 - Nov 2022]
 
 🔭 Projects: 
-- **Stealth Startup** - Frontend Engineer in a team of 6 building an edutech app. [Jul 2023 - Present]
+- **Edutech Web App** - Frontend Engineer in a team of 6 building an edutech app. [Jul 2023 - Present]
 - **GoldenRizz, Cinema Booking System** - Full Stack developer in a team of 6 tasked to design and develop a cinema booking app using the MERN stack and Next.js, Tailwind CSS. Utilized Jira and GitHub Actions for project management and followed agile methodologies achieving a final grade of 90% in the Software Development Methodologies Module. [Apr 2023 – May 2023]
 - **Research Assistant** - Data visualization with Matplotlib and Seaborn libraries focusing on partnerships in church planting within the Philippines. [Jan 2023 - Feb 2023]
 - **MedTech Project Flux** - Implemented web scrapers on the Clinical Trials team, resulting in the successful extraction of over 100,00 data points. [Jan 2023 - Apr 2023]
-- **SAS Startup** - Freelance Developer [Jul 2022 - Sep 2022]
 - **Room Booking Application** - Sole frontend developer in a team of 5 tasked with building a room booking app, closely collaborating with a friend on developing and managing the database and achieved a final grade of 90% in the IT Project Management Module. [Oct 2021 – Dec 2021]
   
 ⚡ Hackathons:
