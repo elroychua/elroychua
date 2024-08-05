@@ -2,6 +2,7 @@
 #### I'm Elroy, a Software Developer from Singapore. Here's some info about me!
 
 👨🏻‍💻 Work Experience:
+- **Software Engineer @ Ensign InfoSecurity** - Full Stack Development in the Solutions Engineering Team: building and managing enterprise-scale web applications and recognised as a domain expert through developing multiple Chrome and Edge browser extensions. [Mar 2024 - Present]
 - **Full Stack Engineer Intern @ Ensign InfoSecurity** - Full Stack Development in the Solutions Engineering Team: created several full stack applications & improved internal CI/CD pipeline. [Aug 2023 - Mar 2024]
 - **Freelance Developer** - Full Stack Development in several client projects. [Jul 2022 - Sep 2022]
 - **Full Stack Developer Intern @ GetPaid** - Full Stack Development in the GetPaid production monorepo: improved user experience of web portal for GetPaid users and partner onboarding. [Dec 2022 - July 2023]
